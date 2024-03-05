@@ -1,0 +1,11 @@
+{
+  "name": "wwc",
+  "version": "0.0.1",
+  "description": "Full Stack App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Augusto Arana Collazos",
+  "license": "ISC"
+}
